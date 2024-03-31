@@ -92,36 +92,48 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 国际频道,#genre#
 金砖国家电视台 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8 
 金砖国家电视台 TVBRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
-CNA（亚洲新闻）,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA（亚洲新闻）,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-GITV（Известия）,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-GITV（Известия）,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-GITV（Известия）,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
-Русский  Север  (Вологда) ,http://185.186.142.16/streams.rs.m3u8
-FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-FOX NewsNOW,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-NEWS 24,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-SkyNews,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-SkyNews,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-SkyNews,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-CityNews,https://5e7c60955a878.streamlock.net/rtv_live/m31_card3/playlist.m3u8
-TV8,http://s01.vpis.io/besiktas/besiktas.m3u8
+新加坡丨CNA（亚洲新闻）,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+新加坡丨CNA（亚洲新闻）,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+俄罗斯丨GITV（Известия）,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯丨GITV（Известия）,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯丨GITV（Известия）,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+俄罗斯丨俄羅斯北部（沃洛格達）Русский  Север  (Вологда) ,http://185.186.142.16/streams.rs.m3u8
+美国丨CNN 印度尼西亚,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+美国丨CNN 印度尼西亚,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+美国丨CNN 印度尼西亚,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
+美国丨FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+美国丨FOX NewsNOW,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美国丨NASA TV1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美国丨NASA TV1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+美国丨NASA TV2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_700.m3u8
+美国丨NASA TV2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+美国丨彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-07-4Qr5sEpfNFG_live.m3u8
+美国丨彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+英国丨NEWS 24,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+英国丨SkyNews,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+英国丨SkyNews,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+英国丨SkyNews,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+法国丨FashionTV 法国时尚电视台,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+加拿大丨CityNews,https://5e7c60955a878.streamlock.net/rtv_live/m31_card3/playlist.m3u8
+土耳其丨TV8,http://s01.vpis.io/besiktas/besiktas.m3u8
 卡塔尔丨半岛电视,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔丨半岛新闻,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 卡塔尔丨半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-阿里郎电视台Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-阿里郎电视台Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-EBS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-news1,https://server1.streamssl.com/stream/news1_mid.m3u8
-news1,https://server1.streamssl.com/stream/news1.m3u8
-news1,https://server1.streamssl.com/stream/news1_hi.m3u8
-HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+韩国丨阿里郎电视台Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国丨阿里郎电视台Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国丨KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国丨EBS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+泰国丨news1,https://server1.streamssl.com/stream/news1_mid.m3u8
+泰国丨news1,https://server1.streamssl.com/stream/news1.m3u8
+泰国丨news1,https://server1.streamssl.com/stream/news1_hi.m3u8
+越南丨HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+越南丨ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+越南丨ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 UCTV - University of California,https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+
 
 
 汕头频道,#genre#
